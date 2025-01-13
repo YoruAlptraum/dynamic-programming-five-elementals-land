@@ -1,5 +1,5 @@
-# Dinamyc Programming Five Elementals Land
-Dinamyc programming approcah to finding the minimum cost path in a array.
+# Dynamic Programming Five Elementals Land
+Dynamic programming approcah to finding the minimum cost path in a array.
 Five Elementals Land is a minigame event in the mobile game Immortal Taoists. 
 In this minigame there are five elements: gold, wood, earth, water and fire.
 Each element is strong agains one element and is weak to another, similar to a game of rock, paper, scissors.
